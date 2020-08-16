@@ -1,4 +1,6 @@
 fun main(){
+    var hip = Hippo()
+    hip.eat()
 }
 open class Animal {
     open val image = ""
@@ -20,5 +22,9 @@ open class Animal {
     fun sleep() {
         println("The Animal is sleeping")
     }
+
+}
+
+class Hippo : Animal() {
 
 }
