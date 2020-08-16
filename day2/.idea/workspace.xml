@@ -51,6 +51,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -72,6 +76,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -98,21 +103,37 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1596340149805">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597546546193">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597546546193" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597546514838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597546514838" />
+    <state width="643" height="163" key="GridCell.Tab.0.bottom" timestamp="1597546574226">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="643" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597546574226" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596340149805" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1596340149804">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="643" height="163" key="GridCell.Tab.0.center" timestamp="1597546574226">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="643" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597546574226" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596340149804" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1596340149804">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="643" height="163" key="GridCell.Tab.0.left" timestamp="1597546574226">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="643" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597546574226" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596340149804" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1596340149805">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="643" height="163" key="GridCell.Tab.0.right" timestamp="1597546574226">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="643" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597546574226" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596340149805" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1597546528747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597546528747" />
   </component>
 </project>
