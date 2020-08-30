@@ -19,21 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44c98252-b5b9-4755-92fa-14e79d3969fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Final-Kotlin/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Final-Kotlin/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Final-Kotlin/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Final-Kotlin/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Final-Kotlin/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Final-Kotlin/Final-Kotlin.iml" afterDir="false" />
+    <list default="true" id="eafd1816-aa38-471b-8210-2211e4d9f9dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../animal/.idea/kotlinc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../animal/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../animal/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../animal/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../animal/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../animal/animal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day2/src/animal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -51,7 +52,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1etE1gSRjbIkGEwliJ6k2hLcWCh" />
+  <component name="ProjectId" id="1gnnTu95WRN7WB3l2hEl8ZVrTjj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -64,7 +65,7 @@
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="day2" />
+      <module name="Final-Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -87,11 +88,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="44c98252-b5b9-4755-92fa-14e79d3969fb" name="Default Changelist" comment="" />
-      <created>1595132275469</created>
+      <changelist id="eafd1816-aa38-471b-8210-2211e4d9f9dd" name="Default Changelist" comment="" />
+      <created>1598759234697</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1595132275469</updated>
+      <updated>1598759234697</updated>
     </task>
     <servers />
   </component>
@@ -105,32 +106,31 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1598759227921">
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1598759965493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598759227921" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1596340149805">
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598759965493" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1598760186332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596340149805" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1596340149804">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598760186332" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1598760186332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596340149804" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1596340149804">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598760186332" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1598760186331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596340149804" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1596340149805">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598760186331" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1598760186332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596340149805" />
-    <state x="342" y="203" key="new project wizard" timestamp="1598759234510">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598760186332" />
+    <state x="342" y="203" key="new project wizard" timestamp="1598759967091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="203" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598759234510" />
+    <state x="342" y="203" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598759967091" />
   </component>
 </project>
